@@ -1,0 +1,10 @@
+# Texte dit dans message-qc.mp3. scripts/spike.ts s'en sert comme référence pour mesurer la transcription
+# (les lignes qui commencent par « # » sont ignorées).
+#
+# VERSION PROVISOIRE : voix de synthèse Pico (fr-FR, pas québécoise), passée en qualité téléphone
+# (8 kHz mono, 300-3400 Hz, MP3 32 kb/s), 30 s. Elle suffit pour vérifier que Chatwoot transcrit et en
+# combien de temps, pas pour juger la qualité sur un vrai appelant.
+# À remplacer par un vrai message d'environ 30 s, dit au téléphone par une personne qui parle québécois
+# (ce texte ou un texte semblable, avec un courriel dicté et un numéro de commande), puis mettre à jour
+# ce fichier avec ce qui a été dit.
+Oui, bonjour. C'est Marie Tremblay. Je vous appelle parce que j'ai commandé un agenda la semaine passée, pis j'ai toujours pas reçu mon courriel d'expédition. Mon numéro de commande, c'est le six, quatre, zéro, trois, six. Si c'est plus simple, vous pouvez me répondre par courriel, à marie point tremblay, arobase, gmail point com. Sinon, rappelez-moi au même numéro. Merci beaucoup, bonne journée!
