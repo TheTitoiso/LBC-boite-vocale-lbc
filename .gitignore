@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+coverage/
+# Sorties de scripts/spike.ts : réponses brutes de Chatwoot et Shopify, peuvent contenir des données personnelles.
+spike-output/
